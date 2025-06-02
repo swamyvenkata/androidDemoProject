@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        //second time pushing
+        //venkataswamy code pushing
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
